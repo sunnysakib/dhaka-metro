@@ -14,6 +14,7 @@ import Contact from './component/Contact/Contact';
 import { createContext } from 'react';
 import { useState } from 'react';
 import PrivateRoute from './component/Login/PrivateRoute';
+import NotFound from './component/NotFound/NotFound';
 
 export const userContext = createContext();
 
@@ -42,6 +43,9 @@ function App() {
           </Route>
           <Route exact path="/">
             <Home />
+          </Route>
+          <Route path="*">
+            <NotFound />
           </Route>
       </Switch>
     </Router>
