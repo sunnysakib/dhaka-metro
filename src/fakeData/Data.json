@@ -1,0 +1,16 @@
+[
+    {
+    "catagory": "ONE TIME TICKET",
+    "amount": "$100"
+  }, {
+    "catagory": "ONE DAY PASS",
+    "amount": "$500"
+  }, {
+    "catagory": "MONTHLY PASS",
+    "amount": "$1500"
+  }, {
+    "catagory": "ANNUAL PASS",
+    "amount": "$9000"
+  }
+
+]

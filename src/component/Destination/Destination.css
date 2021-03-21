@@ -1,0 +1,23 @@
+.destination-form form{
+    width:95%;
+    margin-top: 2%;
+    padding: 6% 8%;
+    margin-top: 9%;
+    background-color: rgb(224, 224, 224);
+    border-radius: 10px;
+}
+
+.destination-form{
+    width: 100% !important;
+}
+
+.map{ 
+        width: 62%;
+        margin-top: 3%;
+        margin-left: 2%;
+}
+
+.destination{
+    
+    display: flex;
+}

@@ -1,0 +1,42 @@
+/* .body {
+    margin: 0;
+  padding: 0;
+  background-image: url(../../images/image\ 7.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+} */
+
+.cart {
+    color: white;
+    width:22%;
+    height: 40vh;
+    margin: 1%;
+    background-image: url(../../images/Group\ 33144.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.cart h3 {
+    font-weight: 700;
+    margin: 10% 0 5% 8%;
+}
+.cart button {
+    margin-top: 4%;
+    margin-left: 8%;
+    border:none;
+    padding: 8px 15px;
+    color:rgb(12, 12, 12);
+    font-weight: 500;
+    border-radius: 50px;
+    background-image: linear-gradient(#fc4a1a, #f7b733);
+}
+
+.cart h1{
+   margin-top: 28%;
+   text-align: center;
+} 
+
+.homeStyle{
+    margin-top: 10%;
+}
